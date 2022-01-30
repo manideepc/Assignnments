@@ -1,0 +1,3 @@
+g++ -c Character.cpp            
+g++ -c main.cpp                 
+g++ -o output Character.o main.o
